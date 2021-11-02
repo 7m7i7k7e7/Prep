@@ -1,0 +1,12 @@
+
+h1{color: blue;}
+img{width: 400px;}
+#thirdDiv{height: 600px;
+           width:500px;
+           background-color: aqua;
+           padding: 50px ;
+           border: 10px double;
+           color: coral;
+           }
+#spanId{font-size: 25px;margin: 50px;}
+body{background-color: aquamarine;}
